@@ -1,0 +1,15 @@
+hyprland
+hyprpaper
+hyprlauncher
+fastfetch
+kitty
+btop
+waybar
+wlogout
+dolphin
+neovim
+firefox
+starship
+kate
+vscodium
+
