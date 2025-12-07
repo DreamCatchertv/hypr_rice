@@ -12,4 +12,5 @@ firefox
 starship
 kate
 vscodium
-
+eza
+docker
